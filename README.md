@@ -31,7 +31,7 @@ You are required to implement the reducer logic for the following actions:
 ### 3. CLEAR
    - Reset the entire state of the calculator when the "AC" (All Clear) button is pressed.
 
-### 4. EVALUATE
+### 4. EVALUATE (Already done for you as an example)
    - Perform arithmetic calculations based on the `previousOperand`, `currentOperand`, and the selected operation.
    - Display the result after the evaluation.
 
